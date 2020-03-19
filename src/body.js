@@ -19,19 +19,18 @@ function Body (props){
 //styled compontents
 const ImgStyle = Styled.div`
     background-color:#FFB6C1;
-    border-left: white 10px dotted;
-    border-right: white 10px dotted;
-
-`
+    border-left: #C8A2CB 10px dotted;
+    border-right: #C8A2CB 10px dotted;
+    `
 const DesStyle = Styled.div`
     display:flex;
     justify-content:center;
     align-text:center;
     background-color:#FFB6C1;
-    color:white;
+    color:#C8A2CB;
     font-size:20px;
-    border-left: white 10px dotted;
-    border-right: white 10px dotted;
+    border-left: #C8A2CB 10px dotted;
+    border-right: #C8A2CB 10px dotted;
     `
 
     const PicStyle = Styled.img`

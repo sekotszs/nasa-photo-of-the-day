@@ -12,8 +12,8 @@ function Footer(props) {
 
 const FootStyle = Styled.div`
 background-color:#FFB6C1;
-    color:white;
+    color:#C8A2CB;
     font-size:15px;
-    border: white 10px dotted;`
+    border: #C8A2CB 10px dotted;`
 
 export default Footer;

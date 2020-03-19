@@ -15,9 +15,9 @@ const HeadStyle = Styled.div`
     justify-content:center;
     align-text:center;
     background-color:#FFB6C1;
-    color:white;
+    color:#C8A2CB;
     font-size:45px;
-    border: white 10px dotted;
+    border: #C8A2CB 10px dotted;
 `
 
 
